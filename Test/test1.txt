@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-
-
-=======
 test1
 지태관
 jeetkn
->>>>>>> jeetkn
+
